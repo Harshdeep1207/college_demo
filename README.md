@@ -1,4 +1,4 @@
 # college_demo
-this is tmy first git repository
+this is my first git repository
 <br>
 Author - Harshdeep Singh
